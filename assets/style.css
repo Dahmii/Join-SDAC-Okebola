@@ -165,3 +165,8 @@ body::after {
 }
 
 /* --------STYLE FOR ANIMATED BACKGROUND END-------- */
+
+h1 {
+  font-size: 700;
+  color: white;
+}
